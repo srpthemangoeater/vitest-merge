@@ -15,11 +15,18 @@ cd vitest-merge
 npm install
 ```
 
+This will install both the `dependencies` and `devDependencies`, including:
+
+- `typescript`: ^5.8.3
+- `vitest`: ^3.1.3
+
 ## Excute Vitest
 
 ```bash
 npx vitest run
 ```
+
+This will run the tests and output the results to your terminal.
 
 ## คู่มือการติดตั้งและการใช้งาน | TH
 
@@ -36,8 +43,15 @@ cd vitest-merge
 npm install
 ```
 
+คำสั่งนี้จะติดตั้ง `dependencies` และ `devDependencies` รวมถึง:
+
+- `typescript`: ^5.8.3
+- `vitest`: ^3.1.3
+
 ## Excute Vitest
 
 ```bash
 npx vitest run
 ```
+
+คำสั่งนี้จะทำการรัน การทดสอบ และแสดงผลลัพธ์ใน Terminal
