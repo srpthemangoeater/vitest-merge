@@ -1,6 +1,6 @@
 # Merge Collections with Vitest
 
-## Install | ENG
+## Install and Excut | ENG
 
 ### 1. Clone the Repository
 
@@ -28,7 +28,7 @@ npx vitest run
 
 This will run the tests and output the results to your terminal.
 
-## คู่มือการติดตั้งและการใช้งาน | TH
+## การติดตั้งและการใช้งาน | TH
 
 ### 1. Clone the Repository
 
