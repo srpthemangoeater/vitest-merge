@@ -1,6 +1,6 @@
 # Merge Collections with Vitest
 
-## Install and Excut | ENG
+## Installation and Excution | ENG
 
 ### 1. Clone the Repository
 
